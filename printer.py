@@ -3,7 +3,7 @@ def print_header():
 
 def print_twice(input: str):
     str = input
-    print(str*3)
+    print(str*2)
     
 def print_reversed (input: str):
     text = input[::-1]
